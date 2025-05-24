@@ -10,7 +10,7 @@ We utilized the CICEVSE2024 dataset, an open rich dataset that includes:
 3.Data on energy consumption during various cyberattacks
 
 2.Technologies Used
-  Python 3.17
+  Python 3.10
   Scikit-learn
   Pandas, NumPy
   NFStream (to convert .pcap to CSV flow-based)
