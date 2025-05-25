@@ -1,4 +1,4 @@
-# EV-Security-
+# EV-Security
 Machine learning implementation on CICEVSE Dataset
 This repository contains our research, code, and analysis for our project: "Malware Detection in EV Charging Infrastructure using Network Traffic and HPC Kernel Events." Our project proposes a multi-layer approach of securing EV charging stations using an ML-based methodology of combining external network traffic information with internal system-level event logs.
 
